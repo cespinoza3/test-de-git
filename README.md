@@ -1,4 +1,4 @@
 Hola como estan
 
-git config --global --add safe.directory "$( relapath . )"
+git config --global --add safe.directory "$( realpath . )"
 
